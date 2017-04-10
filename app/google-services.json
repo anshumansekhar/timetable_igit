@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1063157239994",
+    "firebase_url": "https://myigit-a440a.firebaseio.com",
+    "project_id": "myigit-a440a",
+    "storage_bucket": "myigit-a440a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063157239994:android:de87341788126464",
+        "android_client_info": {
+          "package_name": "qazwsxedc.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063157239994-522ml4nmbt5ran98uls0job7jh488h9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qazwsxedc.timetable",
+            "certificate_hash": "552AC4F667A36121869D308CA2D821CA2537F45D"
+          }
+        },
+        {
+          "client_id": "1063157239994-667p344rel7hms761bu4eb0qgbpdjkqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQISSZ6erAMhsXqZlS6-rZ2BDaUW23BQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063157239994-667p344rel7hms761bu4eb0qgbpdjkqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

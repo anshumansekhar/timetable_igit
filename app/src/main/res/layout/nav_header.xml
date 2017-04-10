@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/navheader_height"
+    android:background="?attr/colorPrimaryDark"
+    android:orientation="vertical"
+    android:padding="@dimen/md_keylines">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Username"
+        android:text="Username"
+        android:textColor="@color/white"
+        android:layout_gravity="left"
+        android:layout_below="@+id/Profilepic"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/Profilepic"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="14dp"
+        android:layout_gravity="left"
+        android:drawingCacheQuality="auto"
+        android:scaleType="centerCrop"
+        android:src="@drawable/cast_album_art_placeholder"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Reg_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/Profilepic"
+        android:layout_alignParentEnd="true"
+        android:textColor="@color/white"
+        android:id="@+id/reg_no" />
+
+    <TextView
+        android:text="Branch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reg_no"
+        android:layout_alignParentEnd="true"
+        android:textColor="@color/white"
+        android:layout_marginTop="27dp"
+        android:id="@+id/branch" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Username"
+        android:textColor="@color/white"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="18dp"
+        android:id="@+id/email" />
+
+
+</RelativeLayout>

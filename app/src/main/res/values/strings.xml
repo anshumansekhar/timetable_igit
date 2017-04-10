@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">207815823013450</string>
+
+    <string name="fb_login_protocol_scheme">fb207815823013450</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string name="action_settings">Settings</string>
+    <!--<string name="default_web_client_id">1063157239994-667p344rel7hms761bu4eb0qgbpdjkqg.apps.googleusercontent.com</string>-->
+</resources>
