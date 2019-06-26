@@ -1,4 +1,4 @@
-# timetable_igit
+# College Timetable App
 This project consists of the development of a Timetable application for android smartphone with real
 time notifications about class timings,venue etc.The application also consists of Syllabus grouped
 according to subjects and semester along with holiday list and group chat feature for class members to
